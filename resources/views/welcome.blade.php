@@ -271,7 +271,7 @@
         </div>
 
 
-nipun  udara rathnayaka
+
 
 
         @if (Route::has('login'))
